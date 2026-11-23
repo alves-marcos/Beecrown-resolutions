@@ -5,5 +5,12 @@
   <Project Path="1009/1009.csproj" Id="9674a8bf-8397-4cce-9db8-a6767eac3483" />
   <Project Path="1010/1010.csproj" Id="b83c0524-73a8-4873-928e-47121407922d" />
   <Project Path="1011/1011.csproj" Id="98500f98-e0ad-4254-800c-53d404e34705" />
+  <Project Path="1012/1012.csproj" Id="05507673-3d6f-4c46-ae6d-e7f4d0efc1fb" />
+  <Project Path="1013/1013.csproj" Id="efd15e88-752d-462f-b13a-e4d78a55c6a8" />
+  <Project Path="1014/1014.csproj" Id="38b619d8-e16b-4dd0-80e4-323addc2c194" />
+  <Project Path="1015/1015.csproj" Id="cd1320af-5489-4967-9a87-5bec6301607f" />
+  <Project Path="1016/1016.csproj" Id="c4c29608-857e-4731-a1de-7d8d26fd535a" />
+  <Project Path="1017/1017.csproj" Id="238392e7-994a-4762-b0e0-5d1d1aa19a4e" />
+  <Project Path="1018/1018.csproj" Id="722e4255-dcfb-43f5-a2c7-31ab29e28c0c" />
   <Project Path="ExerciciosBeecrowd/ExerciciosBeecrowd.csproj" Id="4c33fc7f-2ad2-4c55-9e7d-59b8c321e4e5" />
 </Solution>
